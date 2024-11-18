@@ -14,3 +14,8 @@ Files in this Repository
 
 RandomProjection.ipynb: Shows how to apply random projection and analyze its effects on the data.
 PCA.ipynb: Demonstrates how to use PCA for dimensionality reduction, with examples and visualizations.
+
+In DR we try to answer on primary question. What parts of the data is important?
+More variance = more information
+
+PCA only works  on linearly related features
